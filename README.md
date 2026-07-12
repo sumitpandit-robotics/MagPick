@@ -107,6 +107,4 @@ Author
 
 Sumit Pandit
 
-Deputy Manager – Robotics
 
-Kalyani Group

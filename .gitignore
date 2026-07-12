@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+*.db
+*.db-shm
+*.db-wal
+
+build/
+install/
+log/
+
+*.swp
+
+.DS_Store

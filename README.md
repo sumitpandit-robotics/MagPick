@@ -21,23 +21,71 @@ Develop a modular magnetic grasp planner capable of selecting the optimal magnet
 The planner operates between the perception system and the robot motion planner.
 
 ```
-Perception
-      ↓
-Object Model
-      ↓
-Surface Sampling
-      ↓
+          CAMERA
+
+             │
+
+             ▼
+
+      PERCEPTION
+
+             │
+
+             ▼
+
+      OBJECT MODEL
+
+             │
+
+             ▼
+
+==========================
+       MAGPICK
+==========================
+
 Candidate Generation
-      ↓
-Magnetic Physics
-      ↓
-Quality Evaluation
-      ↓
+
+↓
+
+Physics
+
+↓
+
+Quality
+
+↓
+
 Ranking
-      ↓
+
+↓
+
 Best Pick Pose
-      ↓
-Motion Planner
+
+==========================
+
+             │
+
+             ▼
+
+ Motion Planner (MoveIt)
+
+             │
+
+             ▼
+
+ Robot Controller
+
+             │
+
+             ▼
+
+ FANUC Robot
+
+             │
+
+             ▼
+
+ Magnetic Gripper
 ```
 
 ---

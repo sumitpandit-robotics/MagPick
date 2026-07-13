@@ -12,7 +12,7 @@ Current target application:
 - Steel Billets
 
 ---
-<img width="1536" height="1024" alt="MagPick_V1 0" src="https://github.com/user-attachments/assets/ca83a14f-b09e-440b-8d8d-d40e5a99a536" />
+
 
 # Project Objective
 
@@ -75,7 +75,7 @@ Score : 1.286
 ```
 
 ---
-
+<img width="1536" height="1024" alt="MagPick_V1 0" src="https://github.com/user-attachments/assets/ca83a14f-b09e-440b-8d8d-d40e5a99a536" />
 # Repository Structure
 
 ```

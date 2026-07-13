@@ -2,14 +2,14 @@
 
 ## Physics-Based Magnetic Grasp Planning Framework
 
-MagPick is an in-house magnetic grasp planning framework for robotic bin picking of cylindrical ferromagnetic billets.
+MagPick is an in-house magnetic grasp planning framework for robotic bin picking of cylindrical metal steel billets.
 
 Current target application:
 
 - FANUC CRX-10iA/L
-- Schmalz Magnetic Gripper
-- Mech-Mind 3D Vision
-- Steel Billets
+- Schmalz / equivalent Magnetic Gripper
+- Mech-Mind 3D / suitable Vision
+- Metal Steel Billets 
 
 ---
 
